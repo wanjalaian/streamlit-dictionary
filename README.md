@@ -22,5 +22,5 @@ A simple Streamlit-powered dictionary app that fetches word data, including defi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dictionary-app.git
+   git clone https://github.com/wanjalaian/dictionary-app.git
    cd dictionary-app
