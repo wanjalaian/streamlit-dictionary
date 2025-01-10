@@ -1,6 +1,10 @@
 import requests
 import streamlit as st
 
+# Set the page title
+st.set_page_config(page_title="📚 Dictionary App")
+
+
 # Custom CSS for pills, examples, and footer
 st.markdown(
     """
